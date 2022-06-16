@@ -1,5 +1,5 @@
 # APIproject
-This is for NTNU API class Final project, about face region derection.
+This is for NTNU API class Final project, about face region detection.
 
 這個專案是在高等影像處裡的期末專案。
 
